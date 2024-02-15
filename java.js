@@ -1,8 +1,10 @@
 const container = document.querySelector('#container');
-let gridSize = 16;
+
 let count = 1;
 
 
+function playGame(){
+let gridSize = prompt("Please enter a number up to 100");
 
 while (count<=gridSize){
 
@@ -28,3 +30,4 @@ container.addEventListener('mouseover', e =>{
     target.classList.add('hover')
   }
 });
+};

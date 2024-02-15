@@ -14,8 +14,9 @@
 }
 .container div div{
   flex: 1;
-  height: 50px;
+  height: 25px;
   flex-direction: column;
+  flex-grow: 1;
 }
 .hover{
   background-color: blue;
