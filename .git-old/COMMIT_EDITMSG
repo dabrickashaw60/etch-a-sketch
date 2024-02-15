@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   index.html
+#	new file:   java.js
+#	new file:   style.css
+#
+Grid works but does not have user input on the 
+size yet.
+
+As of now, where you hover it will change
+the background.
